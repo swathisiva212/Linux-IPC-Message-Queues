@@ -49,8 +49,10 @@ int main()
 	// display the message 
 	printf("Data send is : %s \n", message.mesg_text); 
 	return 0; 
-} 
+}
+````
 reader.c
+
 ```
 // C Program for Message Queue (Reader Process)
 #include <stdio.h>
