@@ -81,7 +81,7 @@ int main()
 	msgctl(msgid, IPC_RMID, NULL);
 	return 0;
 }
-
+````
 ## OUTPUT
 
 ![image](https://github.com/swathisiva212/Linux-IPC-Message-Queues/assets/155249892/be57bec2-55dc-46b7-89a5-82a295b4bf9a)
